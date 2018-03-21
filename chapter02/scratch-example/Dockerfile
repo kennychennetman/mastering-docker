@@ -1,3 +1,3 @@
-FROM kennychennetman/mastering-docker:scratch_v2
-COPY files/8.txt /8.txt
+FROM kennychennetman/mastering-docker:scratch_v6
+COPY files/7.txt /7.txt
 CMD ["/bin/sh"]
